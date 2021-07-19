@@ -12,7 +12,7 @@ This notebook explores the following:
 
 ## 2. explore_BERT_for_question_answering.ipynb
 Here we download a BERT-large model that has already been fine-tuned for Question Answering task.
-And use it for answering questions based on the context we provide.
+And, then use it for answering questions based on the context we provide.
 
 This notebook explores the following:
 * BERT input format for Question Answering
@@ -20,7 +20,7 @@ This notebook explores the following:
 
 
 ## 3.finetuning_bert_for_question_answering.ipynb
-This notebook covers:
+In this notebook, we cover the following:
 * Explore Stanford Question Answering Dataset (SQuAD) 2.0 Dataset
 * Prepare data for BERT training for question answering
 * Fine-tune the DistilBert model using this data for question answering
